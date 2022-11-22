@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 # Responsible for running all the necessary programs in
 # the GNU Autotools package to properly setup the build system
